@@ -27,7 +27,7 @@ Creating a QR-code component using only css and html
 ### Links
 
 - Solution URL: [https://github.com/efosu/QR-Code-Challenge]
-- Live Site URL: [https://efosu.github.io]
+- Live Site URL: [https://efosu.github.io/QR-Code-Challenge/]
 
 
 
